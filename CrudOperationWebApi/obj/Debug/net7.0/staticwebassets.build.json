@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k92V97D6dotp+rJYRrMIX2qlKoUBNjS3NBLfudytUCs=",
+  "Source": "CrudOperationWebApi",
+  "BasePath": "_content/CrudOperationWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
